@@ -17,4 +17,5 @@ p,div{
 }
 input,.w-full{
 	background-color: black;
+	border: 1px solid rgb(150, 42, 132);
 }
