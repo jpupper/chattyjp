@@ -15,3 +15,6 @@ p,div{
 .chat-start,.btn-accent,.chat-bubble{
 	color: white;
 }
+input,.w-full{
+	background-color: black;
+}
