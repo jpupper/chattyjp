@@ -6,6 +6,7 @@
 html,
 body {
 	@apply h-full;
+	background-color: black;
 }
 
 p,div{
