@@ -7,3 +7,10 @@ html,
 body {
 	@apply h-full;
 }
+
+p,div{
+	color:white;
+}
+.chat-start,.btn-accent,.chat-bubble{
+	color: white;
+}

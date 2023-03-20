@@ -14,7 +14,7 @@
 		</div>
 	</div>
 	<div class="chat-header">
-		{type === 'user' ? 'Me' : 'Bot'}
+		{type === 'user' ? 'Me' : 'Mariana'}
 	</div>
 	<div class="chat-bubble {type === 'user' ? 'chat-bubble-primary' : 'chat-bubble-secondary'}">
 		{message}
